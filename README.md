@@ -1,9 +1,9 @@
 # MCEN3030 Homework 3
 
-The submission for this homework will be different than on homeworks 1 and 2.
+The submission for this homework will be different than for homeworks 1 and 2.
 - You will add all necessary code to the ```coding_files``` directory. Note that both problems will use the same ```fit_linear``` function, and a single ```fit_nonlinear``` function should work for both nonlinear models in Problem 2.
 - We will not be autograding this assignment, and so the file naming is not strict. It should be clear if your code is good when you look at the plot in Problem 2!
-- Within GitHub, the top-level ```README.md``` file is what is displayed when you access the repository online. When you have completed your homework and collected all requested information, you will summarize that in a new ```.md``` file. Rename this one, e.g. to ```README_old.md```, don't edit it! Then create a new ```README.md```. You should be able to edit the file in any text editor, VS Code, or MATLAB. I'll include a figure at the bottom of this, so you can see how that is included -- note that the image file is in this directory.
+- Within GitHub, the top-level ```README.md``` file is what is displayed when you access the repository online. When you have completed your homework and collected all requested information, you will summarize that information in a new ```.md``` file. Rename the existing one, e.g. to ```README_old.md``` -- don't edit it in case you need to go back and see details for the homework! Then create a new ```README.md```. You should be able to edit the file in any text editor, VS Code, MATLAB, or online. I'll include an image at the bottom of this, so you can see how that is included -- note that the image file is in the same directory as the README.
 - You will also submit a pdf version of your README file to Canvas. [https://md2file.com/](https://md2file.com/) seems to be good and free, with no sign-up. 
 
 ## Problem 1
